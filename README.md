@@ -42,5 +42,4 @@ Keep `.env.example` in GitHub as documentation. Create local `.env` files from i
 ## Notes
 Browser speech voices are supplied by the user's operating system/browser. Aria, Kai, and Maara use different language, voice-selection, pitch, and rate preferences when supported; exact voice availability varies by device.
 
-## Interview talking points
-Explain the API flow, JWT middleware, SQLite schema, RSS parsing, per-user story ownership, and the limitations of browser-native TTS and ephemeral hosting storage.
+
