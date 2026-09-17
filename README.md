@@ -2,6 +2,11 @@
 
 Nuzio is a personalized news reader built with React, Express, SQLite, and browser-native text-to-speech. Users can create an account, choose interests and a narrator, read current news, save stories, and listen to summaries in the browser.
 
+
+   ##### Working Demo
+
+[Watch the Nuzio working demo] https://youtu.be/yJXQqk7yFU8
+
 ## Features
 - JWT authentication with bcrypt password hashing
 - Onboarding for interests, language, profession, notifications, and narrator preference
