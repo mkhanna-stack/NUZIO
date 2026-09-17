@@ -1,0 +1,5 @@
+node_modules
+db/nuzio.db
+db/nuzio.db-shm
+db/nuzio.db-wal
+.env
